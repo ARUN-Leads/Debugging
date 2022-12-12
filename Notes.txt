@@ -1,0 +1,28 @@
+What is Debugging?
+-------------------
+
+Debugging is the process of finding and resolving defects or problems within a computer program that prevent operation of computer software or a system.
+
+it's must have skill for any developer because it helps to find bugs that are not visible during code reviews or that only happen when a specific condition occurs.
+
+Debugging helps the developers in control flow analysis,unit testing,integration testing,monitoring at the application execution flow etc.,
+
+Diff Testing vs Debugging:
+--------------------------
+
+Testing :
+---------
+
+* Testing purpose is to find bug.
+* it proves a programmers failure.
+* Done by Testing team.
+* Testing involves identifying software defect without its correction.
+
+Debugging :
+-----------
+
+* Debugging purpose is to find cause of bug.
+* it is the programmer's validation.
+* Done by Development team.
+* Debugging is deeper process than Testing.Debugging involves identifying,isolating and   fixing the bugs.
+
